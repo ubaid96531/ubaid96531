@@ -1,107 +1,171 @@
-# Hi, I'm Ubaid Ur Rehman 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ubaid%20Ur%20Rehman&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-<p align="left">
-  <a href="mailto:ubaid96531@gmail.com"><img src="https://img.shields.io/badge/Email-ubaid96531@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ubaid-ur-rehman-93a179211/"><img src="https://img.shields.io/badge/LinkedIn-Ubaid%20Ur%20Rehman-blue?style=flat-square&logo=linkedin"></a>
-  <img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-green?style=flat-square">
+<p align="center">
+  <a href="mailto:ubaid96531@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ubaid-ur-rehman-93a179211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://unisyncfast.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-2ea44f?style=for-the-badge" />
 </p>
 
-## About Me
+<br>
 
-I'm a **2nd-year Artificial Intelligence student** at **FAST-NUCES, Islamabad**, currently in my 4th semester. I have hands-on experience in:
+<div align="center">
+  
+  ### 🎓 BS Artificial Intelligence | 4th Semester | FAST-NUCES
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FD9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Robotics+%26+Embedded+Systems+Engineer;AI+%26+Computer+Vision+Enthusiast;Low-Level+Programming+Expert;Always+Learning+New+Things" />
+  
+</div>
 
-- 🌐 **Full-Stack Development** (Node.js, Express.js, Supabase, PostgreSQL)
-- 🤖 **Robotics & Embedded Systems** (ROS2, ESP32, Arduino, Raspberry Pi, LiDAR)
-- 🧠 **AI & Computer Vision** (YOLO, OpenCV, LLM APIs)
-- 💻 **Low-Level Programming** (x86 Assembly, C++, Linux)
-- 📊 **Data Structures & Algorithms** (AVL Trees, Hash Tables, Graphs, BFS, Dijkstra)
+<br>
 
-## Featured Projects
+## 🚀 What I Do
 
-### 🚀 Full-Stack Applications
+<table>
+<tr>
+<td width="50%">
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **[UniSync](https://github.com/ubaid96531/unisync)** | Node.js, Express.js, Supabase, JWT, SSE | Campus communication platform with 38 REST APIs, real-time notifications, e-ticketing with QR codes |
-| **[RideFlow](https://github.com/ubaid96531/rideflow)** | JavaScript, Supabase, Node.js | Uber-like ride-hailing platform with RBAC, real-time tracking, and secure payments |
+### 🌐 Full-Stack Development
+Building scalable web applications with modern technologies
+- **Backend:** Node.js, Express.js, REST APIs, JWT Auth
+- **Database:** PostgreSQL, Supabase, real-time SSE
+- **Frontend:** Vanilla JS, HTML5, CSS, Bootstrap
+
+</td>
+<td width="50%">
 
 ### 🤖 Robotics & AI
+Autonomous systems and intelligent robotics solutions
+- **ROS2:** Navigation, SLAM, path planning (A*, Dijkstra)
+- **Computer Vision:** YOLO, OpenCV, object detection
+- **Hardware:** ESP32, Arduino, Raspberry Pi, LiDAR
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **[ROS2 Maze Solver](https://github.com/ubaid96531/ros2-maze-solver)** | ROS2, Python, Gazebo, OpenCV | Autonomous maze navigation with computer vision and path planning (A*, Dijkstra, DFS) |
-| **[AI Paperball Detector](https://github.com/ubaid96531/ai-robot-paperball-detector)** | YOLO, Python, Raspberry Pi | Computer vision robot that detects and tracks objects using YOLO |
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 💻 Systems & Low-Level
+### 💻 Systems Programming
+High-performance and low-level systems development
+- **Languages:** C++, Python, x86 Assembly, SQL
+- **Concepts:** Multi-threading, IPC, Shared Memory
+- **OS:** Linux (Ubuntu/WSL), Process Management
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **[Financial Tick Processor](https://github.com/ubaid96531/financial-tick-processor)** | C++, POSIX IPC, Multi-threading | High-performance financial data pipeline with shared memory and semaphores |
-| **[Rush Hour](https://github.com/ubaid96531/rush-hour-asm)** | x86 Assembly, Irvine32 | 2D taxi game written entirely in assembly with no high-level abstractions |
-| **[Movies Data Manager](https://github.com/ubaid96531/movies-data-manager)** | C++, AVL Trees, Hash Tables, Graphs | Recommendation engine using custom data structures with O(log n) efficiency |
+</td>
+<td width="50%">
 
-## 🛠️ Tech Stack
+### 📊 Data Structures & Algorithms
+Custom implementations for optimal performance
+- **Trees:** AVL, BST for O(log n) operations
+- **Hash Tables:** O(1) lookups with collision handling
+- **Graphs:** BFS, DFS, Dijkstra for pathfinding
 
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+</td>
+</tr>
+</table>
 
-### Frameworks & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-</p>
+<br>
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-</p>
+## 🛠️ Tech Arsenal
 
-## GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaid96531&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-</p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid96531&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
+### 🚀 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,ros,opencv,postgres,git,linux,docker,github,arduino,raspberrypi&theme=dark" />
 
-## Experience
+</div>
 
-- 🤖 **AI Officer & Marketing Team Member** @ NaSCon & FAST Music Society (Jan 2025 – Jun 2025)
-- 🎓 **Community Service Volunteer** @ The Lighthouse Orphanage (Jan 2025 – Jun 2025)
+<br>
 
-## Currently Learning
+## 📂 Featured Projects
 
-- Advanced ROS2 & SLAM algorithms
-- Computer Vision & YOLO model training
-- System Design & Scalable Architectures
+<div align="center">
 
-## Let's Connect!
+<a href="https://github.com/ubaid96531/unisync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=unisync&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/ubaid96531/rideflow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=rideflow&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
 
-- 📧 **Email:** ubaid96531@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/ubaid-ur-rehman-93a179211](https://www.linkedin.com/in/ubaid-ur-rehman-93a179211/)
-- 🌐 **Portfolio:** [unisyncfast.vercel.app](https://unisyncfast.vercel.app)
+<a href="https://github.com/ubaid96531/ros2-maze-solver">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=ros2-maze-solver&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/ubaid96531/ai-robot-paperball-detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=ai-robot-paperball-detector&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
 
----
+<a href="https://github.com/ubaid96531/financial-tick-processor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=financial-tick-processor&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/ubaid96531/rush-hour-asm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=rush-hour-asm&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
 
-<p align="center">
-  <i>"Building things that matter, one line of code at a time."</i>
-</p>
+<a href="https://github.com/ubaid96531/movies-data-manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=movies-data-manager&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+<br>
+
+## 📈 Experience
+
+```
+🤖 AI Officer & Marketing Team Member  │ NaSCon & FAST Music Society  │ Jan 2025 – Jun 2025
+   └─ Coordinated AI competitions at National Student Convention
+   └─ Led digital & on-campus marketing campaigns
+
+🎓 Community Service Volunteer          │ The Lighthouse Orphanage     │ Jan 2025 – Jun 2025
+   └─ 3 hours daily for 8 weeks mentoring children
+   └─ Organised educational activities
+```
+
+<br>
+
+## 🎯 Currently Exploring
+
+- 🔭 Advanced ROS2 & SLAM algorithms
+- 🧠 Computer Vision & YOLO model training  
+- 🏗️ System Design & Scalable Architectures
+- ⚡ High-Performance Computing
+
+<br>
+
+<div align="center">
+
+## 📬 Let's Connect!
+
+<a href="mailto:ubaid96531@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-ubaid96531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ubaid-ur-rehman-93a179211/">
+  <img src="https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://unisyncfast.vercel.app">
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+
+<br>
+
+<i>💡 "Building things that matter, one line of code at a time."</i>
+
+</div>
