@@ -90,76 +90,29 @@ Custom implementations for optimal performance
 
 <br>
 
-<div align="center">
-
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### Full-Stack Applications
 
-<a href="https://github.com/ubaid96531/unisync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=unisync&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0d1117" />
-</a>
+| Project | Tech Stack | Description | Link |
+|---------|------------|-------------|------|
+| **UniSync** | Node.js, Express.js, Supabase, JWT, SSE | Campus platform with 38 REST APIs, real-time notifications, e-ticketing with QR codes | [View Repo](https://github.com/ubaid96531/unisync) |
+| **RideFlow** | JavaScript, Supabase, Node.js | Uber-like ride-hailing with RBAC, real-time tracking, secure payments | [View Repo](https://github.com/ubaid96531/rideflow) |
 
-</td>
-<td width="50%">
+### Robotics & AI
 
-<a href="https://github.com/ubaid96531/rideflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=rideflow&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0d1117" />
-</a>
+| Project | Tech Stack | Description | Link |
+|---------|------------|-------------|------|
+| **ROS2 Maze Solver** | ROS2, Python, Gazebo, OpenCV | Autonomous maze navigation with computer vision and path planning (A*, Dijkstra, DFS) | [View Repo](https://github.com/ubaid96531/ros2-maze-solver) |
+| **AI Paperball Detector** | YOLO, Python, Raspberry Pi | Computer vision robot that detects and tracks objects using YOLO | [View Repo](https://github.com/ubaid96531/ai-robot-paperball-detector) |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Systems & Low-Level
 
-<a href="https://github.com/ubaid96531/ros2-maze-solver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=ros2-maze-solver&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0d1117" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/ubaid96531/ai-robot-paperball-detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=ai-robot-paperball-detector&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0d1117" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/ubaid96531/financial-tick-processor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=financial-tick-processor&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0d1117" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/ubaid96531/movies-data-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid96531&repo=movies-data-manager&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0d1117" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-## Experience
-
-```
-AI Officer & Marketing Team Member  |  NaSCon & FAST Music Society  |  Jan 2025 - Jun 2025
-  - Coordinated AI competitions at National Student Convention
-  - Led cross-functional marketing campaigns for technical events
-
-Community Service Volunteer           |  The Lighthouse Orphanage     |  Jan 2025 - Jun 2025
-  - Dedicated 3 hours daily for 8 weeks tutoring and mentoring
-  - Organized educational and recreational activities
-```
+| Project | Tech Stack | Description | Link |
+|---------|------------|-------------|------|
+| **Financial Tick Processor** | C++, POSIX IPC, Multi-threading | High-performance financial data pipeline with shared memory and semaphores | [View Repo](https://github.com/ubaid96531/financial-tick-processor) |
+| **Rush Hour** | x86 Assembly, Irvine32 | 2D taxi game written entirely in assembly with no high-level abstractions | [View Repo](https://github.com/ubaid96531/rush-hour-asm) |
+| **Movies Data Manager** | C++, AVL Trees, Hash Tables, Graphs | Recommendation engine using custom data structures with O(log n) efficiency | [View Repo](https://github.com/ubaid96531/movies-data-manager) |
 
 <br>
 
