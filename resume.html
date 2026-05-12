@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ubaid Ur Rehman — Resume</title>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+      background: #e8e8e8;
+      color: #111;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 30px auto;
+      background: #fff;
+      padding: 24px 38px 24px 38px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.12);
+    }
+
+    /* ── NAME BLOCK ── */
+    .name-block {
+      text-align: center;
+      border-bottom: 1px solid #000;
+      padding-bottom: 6px;
+      margin-bottom: 8px;
+    }
+
+    .name-block h1 {
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #000;
+    }
+
+    .name-block .contact-line {
+      font-size: 11px;
+      color: #333;
+      margin-top: 4px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 2px 12px;
+    }
+
+    .name-block .contact-line a {
+      color: #333;
+      text-decoration: none;
+    }
+
+    /* ── SECTION ── */
+    .section {
+      margin-top: 10px;
+    }
+
+    .section-title {
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #000;
+      border-bottom: 1px solid #000;
+      padding-bottom: 2px;
+      margin-bottom: 8px;
+    }
+
+    /* ── ENTRY ── */
+    .entry {
+      margin-bottom: 7px;
+    }
+
+    .entry-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+    }
+
+    .entry-left { flex: 1; }
+
+    .entry-title {
+      font-weight: 700;
+      font-size: 12.5px;
+      color: #000;
+      display: inline;
+    }
+
+    .entry-sub {
+      font-size: 12px;
+      color: #000;
+      font-weight: 400;
+      font-style: italic;
+    }
+
+    .entry-date {
+      font-size: 11.5px;
+      color: #000;
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-style: italic;
+    }
+
+    ul.bullets {
+      list-style: none;
+      padding: 0;
+      margin-top: 4px;
+    }
+
+    ul.bullets li {
+      font-size: 11.5px;
+      color: #222;
+      padding-left: 14px;
+      position: relative;
+      margin-bottom: 2px;
+      line-height: 1.45;
+    }
+
+    ul.bullets li::before {
+      content: '•';
+      position: absolute;
+      left: 0;
+      color: #000;
+      font-weight: 700;
+    }
+
+    /* ── SKILLS ROW ── */
+    .skills-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 0;
+    }
+
+    .skill-category {
+      width: 50%;
+      font-size: 11.5px;
+      color: #111;
+    }
+
+    .skill-category span {
+      font-weight: 700;
+      color: #000;
+    }
+
+    /* ── DIVIDER ── */
+    .entry-divider {
+      border: none;
+      border-top: 1px dashed #ddd;
+      margin: 5px 0;
+    }
+
+    @media print {
+      @page {
+        size: A4;
+        margin: 10mm 12mm;
+      }
+      body { background: #fff; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .page {
+        margin: 0;
+        box-shadow: none;
+        width: 100%;
+        padding: 0;
+        min-height: unset;
+      }
+      .section { margin-top: 7px; }
+      .entry { margin-bottom: 5px; }
+      .entry-divider { margin: 3px 0; }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- NAME & CONTACT -->
+  <div class="name-block">
+    <h1>Ubaid Ur Rehman</h1>
+    <div class="contact-line">
+      <span>ubaid96531@gmail.com</span>
+      <span>+92 332 854 1869</span>
+      <span>Islamabad, Pakistan</span>
+      <span><a href="https://www.linkedin.com/in/ubaid-ur-rehman-93a179211/" target="_blank">linkedin.com/in/ubaid-ur-rehman</a></span>
+      <span><a href="https://github.com/ubaid96531" target="_blank">github.com/ubaid96531</a></span>
+    </div>
+  </div>
+
+  <!-- OBJECTIVE -->
+  <div class="section">
+    <div class="section-title">Objective</div>
+    <p style="font-size:12.5px; color:#222; line-height:1.65;">
+      Second-year AI student (4th Semester) at FAST-NUCES with hands-on experience in full-stack development, embedded systems, and community leadership. Seeking an internship to apply and grow technical and collaborative skills in a professional environment.
+    </p>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section">
+    <div class="section-title">Education</div>
+    <div class="entry">
+      <div class="entry-header">
+        <div class="entry-left">
+          <div class="entry-title">National University of Computer and Emerging Sciences (FAST-NUCES)</div>
+          <div class="entry-sub">Bachelor of Science — Artificial Intelligence</div>
+        </div>
+        <div class="entry-date">Aug 2024 – Aug 2028</div>
+      </div>
+      <ul class="bullets">
+        <li>Islamabad, Pakistan &nbsp;·&nbsp; 2nd Year, 4th Semester</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid">
+      <div class="skill-category"><span>Languages:</span> C++, Python, JavaScript (Node.js), SQL, x86 Assembly</div>
+      <div class="skill-category"><span>Web & Frameworks:</span> HTML, CSS, Express.js, Bootstrap</div>
+      <div class="skill-category"><span>Systems & DevOps:</span> Linux (Ubuntu/WSL), Process Management, IPC</div>
+      <div class="skill-category"><span>AI & Data:</span> LLM APIs, Data Visualization</div>
+      <div class="skill-category"><span>Hardware:</span> ESP32, Arduino, Raspberry Pi, ROS2, LiDAR</div>
+      <div class="skill-category"><span>Soft Skills:</span> Leadership, Project Management, Teamwork, Communication</div>
+    </div>
+  </div>
+
+  <!-- EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Experience</div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div class="entry-left">
+          <div class="entry-title">AI Officer &amp; Marketing Team Member</div>
+          <div class="entry-sub">NaSCon &amp; FAST Music Society Islamabad</div>
+        </div>
+        <div class="entry-date">Jan 2025 – Jun 2025</div>
+      </div>
+      <ul class="bullets">
+        <li>Coordinated AI competitions and technical sessions at NaSCon; led cross-functional collaboration with organising committees.</li>
+        <li>Planned and executed digital and on-campus marketing campaigns for FAST Music Society events.</li>
+      </ul>
+    </div>
+
+    <hr class="entry-divider"/>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div class="entry-left">
+          <div class="entry-title">Community Service Volunteer</div>
+          <div class="entry-sub">The Lighthouse Orphanage — Islamabad, Pakistan</div>
+        </div>
+        <div class="entry-date">Jan 2025 – Jun 2025</div>
+      </div>
+      <ul class="bullets">
+        <li>Dedicated 3 hours daily for 8 weeks tutoring and mentoring children; organised educational and recreational activities.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section">
+    <div class="section-title">Projects</div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div class="entry-left">
+          <div class="entry-title">UniSync — Campus Communication Platform</div>
+          <div class="entry-sub">Node.js · Express.js · Supabase (PostgreSQL) · Vanilla JS · JWT · SSE &nbsp;|&nbsp; unisyncfast.vercel.app</div>
+        </div>
+        <div class="entry-date">2026</div>
+      </div>
+      <ul class="bullets">
+        <li>Built a full-stack campus platform (Node.js, Express.js, Supabase/PostgreSQL) with JWT auth, SSE notifications, society chat, e-ticketing with QR codes, club recruitment, and 38 REST API endpoints; deployed live on Vercel.</li>
+      </ul>
+    </div>
+
+    <hr class="entry-divider"/>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div class="entry-left">
+          <div class="entry-title">Mars Rover — Autonomous AI Robot</div>
+          <div class="entry-sub">C++ · Python · ROS2 · ESP32 · Arduino · LiDAR</div>
+        </div>
+        <div class="entry-date">2024</div>
+      </div>
+      <ul class="bullets">
+        <li>Built an autonomous rover with ROS2 Python nodes, LiDAR mapping, active SLAM on Raspberry Pi, real-time obstacle detection, robotic arm pick-and-drop operations, and Arduino-based dual-axis solar tracking.</li>
+      </ul>
+    </div>
+
+    <hr class="entry-divider"/>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div class="entry-left">
+          <div class="entry-title">Movie Manager — Data Structures &amp; Algorithms</div>
+          <div class="entry-sub">C++ · Graphs · BFS · Dijkstra · Hash Tables · Trees</div>
+        </div>
+        <div class="entry-date">2025</div>
+      </div>
+      <ul class="bullets">
+        <li>Built and optimised a high-performance recommendation engine by parsing a 5000+ record dataset into custom STL-free C++ data structures (AVL Trees, Hash Tables, and Graphs), achieving O(log n) search efficiency and BFS/DFS-based relational pathfinding.</li>
+      </ul>
+    </div>
+
+    <hr class="entry-divider"/>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div class="entry-left">
+          <div class="entry-title">RideFlow — Smart Mobility Platform</div>
+          <div class="entry-sub">JavaScript · Supabase (PostgreSQL) · Node.js · Express.js</div>
+        </div>
+        <div class="entry-date">2025</div>
+      </div>
+      <ul class="bullets">
+        <li>Developed a ride-hailing platform similar to Uber/InDrive with Role-Based Access Control using vanilla JavaScript and Supabase PostgreSQL, featuring real-time ride tracking, secure digital payments, and live admin analytics.</li>
+      </ul>
+    </div>
+
+    <hr class="entry-divider"/>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div class="entry-left">
+          <div class="entry-title">Rush Hour — 2D Taxi Game in x86 Assembly</div>
+          <div class="entry-sub">x86 Assembly · Low-Level Programming</div>
+        </div>
+        <div class="entry-date">2025</div>
+      </div>
+      <ul class="bullets">
+        <li>Developed a 2D taxi game in x86 Assembly with passenger mechanics, fuel system, NPC logic, and screen rendering managed entirely at the register and memory level.</li>
+      </ul>
+    </div>
+
+  </div>
+
+</div>
+</body>
+</html>
